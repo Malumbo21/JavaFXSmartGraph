@@ -343,6 +343,8 @@ You can submit a pull request. Pull requests should adhere to the existing namin
 
 - [PathGraph](https://github.com/vittorioPiotti/PathGraph-JavaFX) - *"Path Graph is a library with all the tools necessary to create and work both path and walk graphs in a stable and simple way."*
 
+- [PetriNet Hub](https://github.com/alessio-vivaldelli/PetriHub) - *"is a comprehensive desktop application developed in Java for the design, visualization, and simulation of Petri nets, following the formalisms of the ISO/IEC 15909-2 standard to save and load them."*
+
 - [GraphMateKT](https://github.com/Norskeaksel/GraphMateKT) - *"is a library created for making, traversing and visualizing graphs and grids. It contains a set of useful graph algorithms like bfs, dfs, dijkstra, topological sorting, among others."*
 
 :star: If you use the library in your project, you can send me a message and I can showcase it in this page.
